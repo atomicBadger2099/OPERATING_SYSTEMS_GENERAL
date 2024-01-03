@@ -5,14 +5,21 @@ REMOTE ACCESS:
 SSH- remote computer protocol
 
 OpenSSH - Linux remote client program
-puTTy -	Windows remote access program
+OpenSSH DOCUMENTATION:
+https://www.openssh.com/manual.html
 
+
+puTTy -	Windows remote CLIENT program
+puTTy documentation:
+https://the.earth.li/~sgtatham/putty/0.80/htmldoc/
+
+
+General notes on SSH:
 SSH Keys- key pairs that allow for secure SSH login between 2 remote systems.
 SSH key sets will have both a public and a private key.
 
 VPN - virtual private network. Allows for connection for a private network
 	 over an online connection.
 
-puTTy documentation online: https://the.earth.li/~sgtatham/putty/0.80/htmldoc/
-OpenSSH documentation online: https://www.openssh.com/manual.html
+
 
